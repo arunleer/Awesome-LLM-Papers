@@ -1,6 +1,6 @@
 # Awesome Large Language Model Papers
 
-**[The Development of Metrica Vox Machina**: See the [METRICA](https://github.com/arunleer/METRICA) repository for details on the time-limited project.
+**The Development of Metrica Vox Machina**: See the [METRICA](https://github.com/arunleer/METRICA) repository for details on the time-limited project.
 
 ## Table of Contents
 - [Introduction](#introduction)
