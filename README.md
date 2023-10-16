@@ -1,6 +1,6 @@
 # Awesome Large Language Model Papers
 
-**[Your Thesis Title]**: Give a brief description of your thesis, including its main objectives, the relevance of the language models in your research, and the expected outcomes or findings.
+**[The Development of Metrica Vox Machina**: See the [METRICA](https://github.com/arunleer/METRICA) repository for details on the time-limited project.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,19 +12,19 @@
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## Introduction
+## 👋 Introduction
 
 This repository contains a curated collection of references related to large language models used during my thesis research at University of Birmingham. These references include academic papers, blog posts, articles, and other pertinent resources. The goal is to provide a comprehensive list for anyone interested in the intersection of LLM evaluation, or just language models in general.
 
-## How to Use This Repository
+## 🔍 How to Use This Repository
 
 1. Navigate to the [References](#references) section.
 2. Use the sub-sections to find specific types of resources.
 3. Click on the direct links provided to access the original source of the reference.
 
-## References
+## 📝 References
 
-### Papers
+### 📄 Papers
 
 1. **[Title of the Paper 1]** - [Author(s) of the Paper 1]  
    [Direct Link to Paper 1](#)
@@ -34,21 +34,21 @@ This repository contains a curated collection of references related to large lan
 
 Working...
 
-### Articles & Blogs
+### 📰 Articles & Blogs
 
 1. **[Title of the Article 1]** - [Author(s) of the Article 1]  
    [Direct Link to Article 1](#)
 
 Working...
 
-### Other Resources
+### 🔗 Other Resources
 
 Working...
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 Working...
 
-## License
+## 📜 License
 
 MIT is enabled in this repository as a permissive license that allows for reuse. In the context of my list above, it's simply included to enable commercial purposes with no author-based liability or warranty.
