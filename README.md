@@ -1,2 +1,2 @@
 # Awesome-LLM-Papers
-A curated list of LLM-based research
+A curated list of LLM-based research papers
