@@ -1,7 +1,5 @@
 # Awesome Large Language Model Papers
 
-**The Development of Metrica Vox Machina**: See the [METRICA](https://github.com/arunleer/METRICA) repository for details on the time-limited project.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [How to Use This Repository](#how-to-use-this-repository)
@@ -23,6 +21,8 @@ This repository contains a curated collection of references related to large lan
 3. Click on the direct links provided to access the original source of the reference.
 
 ## 📝 References
+
+**Important Note**: The below summarisations of references were created as a project for testing the text summarisation capabilities of multiple large language models for high efficacy against minimal token input. While all summarisations scored above 0.91, some errors may exist. Please use this repository of academic writings cautiously.
 
 ### 📄 Papers
 
