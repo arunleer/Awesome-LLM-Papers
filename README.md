@@ -51,4 +51,4 @@ Working...
 
 ## 📜 License
 
-MIT is enabled in this repository as a permissive license that allows for reuse. In the context of my list above, it's simply included to enable commercial purposes with no author-based liability or warranty.
+MIT is enabled in this repository as a permissive license that allows for reuse of the README.md file. In the context of my list above, it's simply included to enable commercial purposes with no author-based liability or warranty. You can use this list as you see fit and please do your own research into the contents of each paper.
