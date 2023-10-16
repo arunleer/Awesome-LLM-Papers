@@ -22,7 +22,7 @@ This repository contains a curated collection of references related to large lan
 
 ## 📝 References
 
-**Important Note**: The below summarisations of references were created as a project for testing the text summarisation capabilities of multiple large language models for high efficacy against minimal token input. While all summarisations scored above 0.91, some errors may exist. Please use this repository of academic writings cautiously.
+**Important Note**: The below summarisations of references were created as a project for testing the text summarisation capabilities of multiple large language models for high efficacy against minimal token input. While all summarisations scored above 0.91 (of 1.0), some errors may exist. Please use this repository of academic writings cautiously.
 
 ### 📄 Papers
 
